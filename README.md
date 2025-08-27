@@ -1,5 +1,11 @@
 # 👋 Bienvenido a Kodigo-Kid
 
+## Estilos de Arquitectura
+- Microkernel
+- Pipeline / Filter
+- [Microkernel]
+- [Microkernel](libros/fundamentals-cap1.md)
+
 Este es mi cuaderno digital de **apuntes y reflexiones** sobre arquitectura de software.  
 Todo el contenido está en **Markdown**.
 
