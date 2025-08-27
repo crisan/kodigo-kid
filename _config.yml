@@ -1,5 +1,0 @@
-# _config.yml
-title: Kodigo-Kid
-description: Soluciones de arquitectura frente a problemas reales
-theme: jekyll-theme-minimal   # o: jekyll-theme-minimal, jekyll-theme-slate, jekyll-theme-hacker, jekyll-theme-cayman
-markdown: kramdown
